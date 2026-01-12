@@ -57,7 +57,7 @@ Sales Store Data Analysis using Tableau
 ## Dashboard Images
 
 <a href="https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/sales_country1.png">Dashboard Image 1</a>
-
+<a href="https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/sales_country2.png">Dasboard Image 2</a>
 
 ---
 

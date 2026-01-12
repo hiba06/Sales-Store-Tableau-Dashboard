@@ -56,7 +56,7 @@ Sales Store Data Analysis using Tableau
 
 ## Dashboard Interaction
 
-<a href="[https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/sales_country1.png](https://public.tableau.com/app/profile/mohammadi.hiba.khan/viz/my_first_dash_17594288355820/salesanalysis?publish=yes)">Sales Analysis Dashboard</a>
+<a href="https://public.tableau.com/app/profile/mohammadi.hiba.khan/viz/my_first_dash_17594288355820/salesanalysis?publish=yes">Sales Analysis Dashboard</a>
 
 ---
 

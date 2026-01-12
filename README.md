@@ -40,6 +40,12 @@ Sales Store Data Analysis using Tableau
 
 ---
 
+## Dashboard Interaction
+
+<a href="https://public.tableau.com/app/profile/mohammadi.hiba.khan/viz/my_first_dash_17594288355820/salesanalysis?publish=yes">Sales Analysis Dashboard</a>
+
+---
+
 ## Process
 
 1. Collected the sales store dataset.
@@ -54,9 +60,10 @@ Sales Store Data Analysis using Tableau
 
 ---
 
-## Dashboard Interaction
+## Dashboard Screenshots
+<img width="1920" height="1020" alt="sales_country1" src="https://github.com/user-attachments/assets/525e6418-513a-46ef-9c8f-16aa6b66807e" />
 
-<a href="https://public.tableau.com/app/profile/mohammadi.hiba.khan/viz/my_first_dash_17594288355820/salesanalysis?publish=yes">Sales Analysis Dashboard</a>
+<img width="1920" height="1020" alt="sales_country2" src="https://github.com/user-attachments/assets/b02ca67c-f65f-45e8-86c4-ecb1e0385cf2" />
 
 ---
 

@@ -1,4 +1,4 @@
-Project Title
+Project Title:
 Sales Store Data Analysis using Tableau
 
 Dataset used:https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/Orders.xlsx

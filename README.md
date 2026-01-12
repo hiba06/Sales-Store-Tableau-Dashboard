@@ -6,7 +6,7 @@ Sales Store Data Analysis using Tableau
 
 ## Dataset Used
 
-[https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/Orders.xlsx](https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/Orders.xlsx)
+- <a href="https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/Orders.xlsx">Dataset</a>
 
 ---
 

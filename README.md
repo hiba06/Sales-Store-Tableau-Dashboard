@@ -61,9 +61,10 @@ Sales Store Data Analysis using Tableau
 ---
 
 ## Dashboard Screenshots
-<img width="1920" height="1020" alt="sales_country1" src="https://github.com/user-attachments/assets/525e6418-513a-46ef-9c8f-16aa6b66807e" />
 
-<img width="1920" height="1020" alt="sales_country2" src="https://github.com/user-attachments/assets/b02ca67c-f65f-45e8-86c4-ecb1e0385cf2" />
+<img width="1891" height="908" alt="sales_country1" src="https://github.com/user-attachments/assets/e883dd23-fa30-4300-af23-13028eb1fafd" />
+
+<img width="1893" height="917" alt="sales_country2" src="https://github.com/user-attachments/assets/7a9dde40-ed9e-4686-ad62-a2f841ab8d6f" />
 
 ---
 

@@ -54,6 +54,13 @@ Sales Store Data Analysis using Tableau
 
 ---
 
+## Dashboard Images
+
+<a href="https://github.com/hiba06/Sales-Store-Tableau-Dashboard/blob/main/sales_country1.png">Dashboard Image 1</a>
+
+
+---
+
 ## Project Insights
 
 1. The dashboard shows overall business performance in one view.
